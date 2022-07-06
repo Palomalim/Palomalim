@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hey! Meu nome é Paloma Lima e sou estudante de progração!
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=palomalim&show_icons=true&theme=synthwave)
+
 
 <!--
 **Palomalim/Palomalim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
