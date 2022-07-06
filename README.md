@@ -1,4 +1,4 @@
-## Hey! Meu nome é Paloma Lima e sou estudante de progração!
+## Hey! Meu nome é Paloma Lima e sou estudante de programação!
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=palomalim&show_icons=true&theme=synthwave)
